@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# @Author : Siddhi Naik, CWID: A20444173
+# @Author : Siddhi Naik
 #The Shell Script backs up all the files present in a directory to another specific directory
 # And adds an extension.bak to the file
 
