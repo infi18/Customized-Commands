@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# @Author : Siddhi Naik, CWID: A20444173
+# @Author : Siddhi Naik
 # The Shell Script "MyRm.sh" that runs a customized rm function 
 #The function accepts multiple files and instead of deleting moves to a WasteBasket 
 
